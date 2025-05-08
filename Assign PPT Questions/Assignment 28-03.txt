@@ -1,0 +1,7 @@
+What is JDBC & ODBC & Where it is used in SAP & What's the purpose?
+
+What is ETL & it's tools, & where it's used in SAP?
+
+Purpose of GitHub & Where it is used in SAP?
+
+What is CHARM in SAP?

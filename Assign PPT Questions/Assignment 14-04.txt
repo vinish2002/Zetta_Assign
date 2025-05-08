@@ -1,0 +1,13 @@
+What scenarios will we change the profile parameters in SAP system?
+
+Which parameters and when will we change the parameter?
+
+Profile parameters for AS ABAP & AS Java?
+
+Tools or T-Codes maintained to maintain profile parameters for AS BAP & AS Java an Fiori?
+
+Differences between profile & parameters
+
+What is the impact, when will we change the parameters for in SAP System?
+
+Where we can find the changes of parameters, in AS BAP & AS Java an Fiori?

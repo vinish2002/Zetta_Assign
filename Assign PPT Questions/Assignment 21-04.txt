@@ -1,0 +1,36 @@
+What are Clean Core Services? What is "Core" represents here?
+
+GROW with SAP - Implementation strategies.
+RISE with SAP - Implementation strategies.
+
+What are the ports & their numbers in the SAP, whether it is in windows or Linux.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

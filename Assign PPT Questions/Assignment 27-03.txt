@@ -1,0 +1,11 @@
+CMDB - Config Mngmt BD
+
+How to access a folder of Linux from windows?
+
+What is subnet & purpose of subnet mask?
+
+Is the logical system unique & in what cases will client is transported in SAP?
+
+How to check the disk space of client copy with t - codes and also give another methods in SAP?
+
+How to track parameter changes in OS level?

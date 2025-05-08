@@ -1,0 +1,8 @@
+How the CPU is working and what are the processes
+What are the components & main components of the  server
+What is RDBMS, how is the data accessed here
+What is difference between CPU & server
+What are the process running in server & CPU
+Difference b/w Responsible AI & Business AI
+DDOS
+RISE with SAP Cloud Operations

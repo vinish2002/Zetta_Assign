@@ -1,0 +1,23 @@
+What is DDR4 & DDR5.
+
+What is 32-bit & 64-bit
+
+Support pack update is online update or offline update?
+
+What are the tools used for performing support packs update & release update?
+
+What is client & what's the purpose of client in SAP?
+
+How many clients can be created in SAP system?
+
+What's the main purpose of transport using in SAP?
+
+Explain about customizing data, application data, user administration data & ABAP repository data.
+
+-------------------------------------------------------
+-------------------------------------------------------
+Kernel
+Kernel release
+pre & post steps for Kernel installation
+Precautions that we have to take before installation
+

@@ -1,0 +1,22 @@
+
+What are the ports & port numbers available in SAP to connect?
+
+Differences between AS ABAP & AS JAVA from its architecture
+
+Can we have more than one enqueue server in an SAP System?
+
+Is it possible to introduce more that one enqueue server in a central instance?
+
+Main part of enqueue server, except of locking the table entries.
+
+A user in SAP systems, who is in ABAP, will the same user be there in AS Java, or should I create a new user for systems separately?
+
+Different types of user administration available in windows & Linux along with administration tools.
+
+Find out specific set of users, where they can be maintained/managed in windows/Linux & where do they define the company policies.
+
+What is firmware?
+
+What are the operations/steps that will perform, while machine/laptop power on/boots up?
+
+Explain about the components & its functions of a computer.

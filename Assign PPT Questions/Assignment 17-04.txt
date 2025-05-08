@@ -1,0 +1,20 @@
+1) What is SAP Solution Manager
+	- Defination
+	- Current version
+	- Main purpose
+	- What are the Integrations
+2) What is SAP Cloud ALM 
+	- Defination
+	- Current version
+	- Main purpose
+	- What are the Integrations
+3) Types of real-time issues, which occur with SAP Printing.
+4) Realtime issues  with TMS & how can we troubleshoot that, explain in steps
+
+
+
+
+
+
+Functions from BTC Job Schedulers:
+SM(38, 39, 49, 62, 63, 64, 65, 69), SP01/SP02

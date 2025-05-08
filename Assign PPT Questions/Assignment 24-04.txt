@@ -1,0 +1,4 @@
+What is SAP router
+What is the config of SAProuter
+Where i need to maintain connection for SAP Router
+Differences between Physical router & SAP Router

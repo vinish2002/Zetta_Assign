@@ -1,0 +1,6 @@
+what is sap ariba? what are the integrations to ariba?
+what is sap success factor, in what way is it different from SAP HR?
+What are the other purposes of concur?
+what is sap btp and what are the integrations to the sap and to the third party applications?
+find out the difference between s4 hana versions
+scp integrations. what are the integrations to scp?

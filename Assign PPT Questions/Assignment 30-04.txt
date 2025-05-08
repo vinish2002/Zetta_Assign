@@ -1,0 +1,5 @@
+What is SAPS in SAP
+How will you calculate SAPS & What is the formula for SAPS
+What is QuickSizer
+Which component is installed in sequential order in SAP System Installation
+What are the pre-installation & post-installation steps based on windows/Linux for HANA Database

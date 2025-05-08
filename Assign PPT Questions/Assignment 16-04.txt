@@ -1,0 +1,11 @@
+What is TemSe in SAP?
+What are the parameters in TemSe?
+What are the things which are in TemSe
+What is printer, types of printing methods available(not only specific to SAP)
+What is driver in printer system
+Will the printer contains driver by default, or do we need to install them
+Where we can find the driver in printer
+How can I find that what driver is needed for the specific printer
+Difference between local server and remote Print server
+Specific to SAP, what are the print methods
+What are the parameters specific to printer

@@ -1,0 +1,10 @@
+What is the level of security we have, with the public cloud as compared with private cloud?
+
+Types of security offered in private & public cloud.
+
+
+
+1. What is the level of security we have in public and private cloud?
+2. Types of security offered in public and private cloud
+3. What are the activities we can use for ABAP tasklist.
+4. In Which scenario we can automate task list with Tcodes.......step by step

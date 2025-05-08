@@ -1,0 +1,11 @@
+What is OData Services, main purposes, where we use it in SAP?
+
+Why are we creating Trusted RFC in SAP gateway deployment?
+
+What are the frontend systems in SAP, as like FIORI?
+
+What are the type of authentication to access any external SAP & non-SAP systems?
+
+What are the certificates are needed to access external SAP & non-SAP system?
+
+What is the external programs in SAP, where we can use external program in SAP system? How to register external Program in SAP?

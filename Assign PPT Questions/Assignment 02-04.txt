@@ -1,0 +1,11 @@
+what are the settings which should be configured while establishing an RFC connection to a non Unicode system?
+
+what is the main purpose of sap BW system? where is it used? what is the RFC connection used between sap BW and ECC system?
+
+What is firewall, What are the types? What's the Main purpose & where it is used in SAP system?
+
+Main purpose of SAP BW & what's the use of it?
+
+What is SAP ITS? and its main function?
+
+Concept & purpose of DMG in SAP?

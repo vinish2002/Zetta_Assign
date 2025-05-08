@@ -1,0 +1,7 @@
+what is the release version of s4 hana that removed 001 and 066 clients?
+what are the client profiles in client copies?
+what are the files created during export and import?
+how to monitor the java system when NWA is down?
+which is the last version where dual stack is used in sap application? Find out why the dual stack has been discontinued?
+what are the scenarios where we create the trusted RFCs?
+Basics of cloud computing. role of cloud in sap.
